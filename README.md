@@ -6,4 +6,4 @@ extracting data from the Windows application.
 	- **DirectWindowInteraction**
 	- **KeyboardControlTextExtraction**
 
-![sample](https://i.ibb.co/KVJDXmy/sample-keyboard.gif)
+![sample](https://i.ibb.co/C8ftGq9/sample.gif)
