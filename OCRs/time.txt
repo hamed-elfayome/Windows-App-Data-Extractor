@@ -1,0 +1,34 @@
+screen and crop  1000
+Total time taken: 622.2788 seconds
+Average time per iteration: 0.6223 seconds
+
+
+
+img2txt - pytesseract  100
+Total time taken: 19.02201 seconds
+Average time per iteration: 0.1902 seconds
+
+
+img2txt - trocr-small-printed  100
+Total time taken: 38.55243 seconds
+Average time per iteration: 0.3855 seconds
+
+
+
+img2txt - trocr-small-printed-enhanced 100
+Total time taken: 42.7994 seconds
+Average time per iteration: 0.428 seconds
+
+
+img2txt - trocr-base-printed  100
+Total time taken: 140.9786 seconds
+Average time per iteration: 1.4098 seconds
+
+
+pharmacy windows app 1000
+Total time taken: 533.1678 seconds
+Average time per iteration: 0.5332 seconds
+
+keyboard 10
+Total time taken: 138.0621 seconds
+Average time per iteration: 13.8062 seconds

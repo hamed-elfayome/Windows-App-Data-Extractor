@@ -1,0 +1,22 @@
+pytesseract
+Total rows: 999
+Matches: 876
+Efficiency: 87.69%
+
+
+trocr-small-printed
+Total rows: 999
+Matches: 898
+Efficiency: 89.89%
+
+
+trocr-small-printed-enhanced
+Total rows: 999
+Matches: 981
+Efficiency: 98.20%
+
+
+trocr-base-printed
+Total rows: 999
+Matches: 998
+Efficiency: 99.90%
